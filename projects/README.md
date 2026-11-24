@@ -11,4 +11,4 @@
 
 ## 进度
 
-暂无完成项目。
+- [x] **[conversation-chat](https://github.com/pipixiayoudianpi/conversation-chat)**（Week 2）：Vue 3 + TS + Pinia + Vue Router + UnoCSS 的本地聊天应用。会话的新建、切换、删除、搜索，模拟回复，自动滚动，localStorage 持久化。后面接 AI 接口时会以它为基础

@@ -25,20 +25,18 @@
 
 ## 📚 仓库导览
 
-- [`progress/`](./progress) — 每周进度报告（当前最新：[Week 1](./progress/week-01.md)）
+- [`progress/`](./progress) — 每周进度报告（当前最新：[Week 2](./progress/week-02.md)）
 - [`notes/`](./notes) — 学习笔记（命令行、Git、Vue 3、TS、AI SDK 等）
 - [`projects/`](./projects) — 实战项目目录
 - [`posts/`](./posts) — 博客原稿
 
 ## 🛠 当前状态
 
-**Week 1 进行中**（第 0 阶段地基补强）
+**Week 2 已完成，下一步 Week 3**（第 0 阶段地基补强）
 
-- ✅ Day 1：终端环境升级（iTerm2 + oh-my-zsh + p10k + 插件）
-- ✅ Day 2-3：30 个命令行命令突击
-- ✅ Day 4-5：Git 命令行完整流程 + GitHub 协作（PR、rebase、stash）
-- 🚧 Day 6-7：GitHub 主页 + 本仓库 + 第一篇博客
-- ⏳ Week 2：Vue 3 + Composition API + TypeScript
+- ✅ Week 1：终端环境、30 个命令行命令、Git 命令行 + GitHub 协作、GitHub 主页、第一篇博客（[周报](./progress/week-01.md)）
+- ✅ Week 2：TypeScript 入门、Vue 3 + Pinia 实战项目 [conversation-chat](https://github.com/pipixiayoudianpi/conversation-chat)、Vue 响应式原理（[周报](./progress/week-02.md)）
+- ⏳ Week 3：从零搭个人博客并部署到 Vercel
 
 ## 🤝 协作 & 联系
 
